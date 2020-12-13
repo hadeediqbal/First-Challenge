@@ -186,8 +186,9 @@ p {
 }
 
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+   /*   border: 1px solid red;*/
+     margin-bottom: 20px;
+     font-size: 36px; 
 }
 
 .online-reputation-management h2 {
