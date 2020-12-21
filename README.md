@@ -1,5 +1,14 @@
-# Firs# Code Refactor Starter Code
-fix broken link "Search Engine Optimization"
-clean up CSS files
-adding tags in progress
-adding comments
+Hadeed Iqbal Challenge Assignment
+
+Purpose
+Challenge 1 class asignment.
+
+Built With
+HTML
+CSS
+
+Website
+https://hadeediqbal.github.io/My-Portfolio/
+
+Contribution
+Made with ❤️ by Hadeed Iqbal
