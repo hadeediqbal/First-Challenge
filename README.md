@@ -8,7 +8,7 @@ HTML
 CSS
 
 Website
-https://hadeediqbal.github.io/My-Portfolio/
+https://hadeediqbal.github.io/First-Challenge/
 
 Contribution
 Made with ❤️ by Hadeed Iqbal
